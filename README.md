@@ -1,33 +1,31 @@
 # Project Overview
 
-*This project uses SQL to extract lending data and Power BI to create visualizations. It tracks key metrics like loan applications and funded amounts, and helps identify trends, regional differences, and borrower patterns.*
+*This project used Excel and SQL to analyze pizza sales data, calculating key metrics and developing visualizations to uncover trends and insights. It highlighted daily and hourly order patterns, sales distribution, and top-selling pizzas to enhance business performance.*
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data and Exploration
 
 ### - Dataset <br />
 
- **`finanical_loan.csv`** 
+ **`pizza sales analysis.xlsx`** 
 
 ### - Exploration Questions <br />
  
 **The following questions are explored in this case study:**
 
-- Total Loan Applications: Total, MTD, and MoM changes.
-- Total Funded Amount: Total, MTD, and MoM changes.
-- Total Amount Received: Total, MTD, and MoM changes.
-- Average Interest Rate: Average, MTD, and MoM variations.
-- Average Debt-to-Income Ratio (DTI): Average, MTD, and MoM fluctuations.
-- Monthly Trends by Issue Date: Seasonality and long-term trends.
-- Regional Analysis by State: Significant lending activity and regional disparities.
-- Loan Term Analysis: Distribution of loans by term length.
-- Employee Length Analysis: Lending metrics by employment length.
-- Loan Purpose Breakdown: Metrics by loan purpose.
-- Home Ownership Analysis: Impact of home ownership on loans.
+- Total Revenue: What is the sum of the total price of all pizza orders?
+- Average Order Value: What is the average amount spent per order?
+- Total Pizzas Sold: What is the total number of pizzas sold?
+- Total Orders: What is the total number of orders placed?
+- Average Pizzas Per Order: What is the average number of pizzas sold per order?
+- Daily Trend for Total Orders: What are the daily patterns or fluctuations in total orders?
+- Hourly Trend for Total Orders: What are the peak hours or periods of high order activity?
+- Percentage of Sales by Pizza Category: How are sales distributed across different pizza categories?
+- Percentage of Sales by Pizza Size: What is the distribution of sales by different pizza sizes?
+- Top 5 Best Sellers by Total Pizzas Sold: Which are the top 5 best-selling pizzas based on total sales?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Instagram Clone Data Analysis Dashboard](Dashboard/p1.png)
-![Instagram Clone Data Analysis Dashboard](Dashboard/p2.png)
-![Instagram Clone Data Analysis Dashboard](Dashboard/p3.png)
+![Pizza Sales Analysis Dashboard](Pizza-Sales-Analysis--Excel-SQL/excel dashboard.png)
+
