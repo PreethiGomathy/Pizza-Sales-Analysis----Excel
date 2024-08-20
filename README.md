@@ -27,5 +27,5 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Pizza Sales Analysis Dashboard](Pizza-Sales-Analysis--Excel-SQL/excel dashboard.png)
+![Pizza Sales Analysis Dashboard](excel_dashboard.png)
 
